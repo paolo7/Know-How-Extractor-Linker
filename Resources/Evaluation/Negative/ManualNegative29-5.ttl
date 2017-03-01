@@ -1,0 +1,40 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prohow: <http://vocab.inf.ed.ac.uk/prohow#> .
+@prefix madph: <http://vocab.inf.ed.ac.uk/madprohow#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/get-a-flat-stomach-in-a-week&t=1396550334595&n=1921801> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/blend-in&t=1396573158369&n=3054703&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704638&n=396432> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/can-onions&t=1396517491933&n=318335&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/get-a-flat-stomach-in-a-week&t=1396550334596&n=1921806> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/say-no&t=1396643017793&n=5778885&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704638&n=396449> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook-for-one&t=1400495333181&n=32557&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/back-up-a-computer&t=1396531505868&n=1024182> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/move&t=1396518675240&n=394059&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-bleeding&t=1396551454932&n=1972205> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/lie&t=1396520810195&n=499728&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-learning-computer-programming&t=1396641199469&n=5737973> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-over&t=1396572090240&n=3013105&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-loving-someone&t=1396694119501&n=6732399> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-point&t=1396654879511&n=6110289&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-cake&t=1396514335563&n=133382> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/can-apples&t=1396517483629&n=317199&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704639&n=396456> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook-for-one&t=1400495333181&n=32557&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704639&n=396457> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook-for-one&t=1400495333181&n=32557&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/connect-two-computers&t=1396532957951&n=1090253> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/network&t=1396535243423&n=1189826&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-cake&t=1396514335563&n=133385> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/can-apples&t=1396517483629&n=317199&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/back-up-a-computer&t=1396531505868&n=1024182> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/move-on&t=1396612293438&n=4783318&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/ungoogle-yourself&t=1396525214238&n=723786> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/know-who-you-are&t=1396766243350&n=7416696&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704638&n=396440> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook-for-one&t=1400495333181&n=32557&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-coughing-in-5-minutes&t=1396668056316&n=6322279> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/keep-clean&t=1396521762637&n=553665&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-loving-someone&t=1396694119501&n=6732406> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/like-people&t=1396588061227&n=3612644&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bathe-a-cat&t=1396510312333&n=3422> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/like-people&t=1396588061227&n=3612644&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704638&n=396439> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook-for-one&t=1400495333181&n=32557&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-cake&t=1396514335563&n=133383> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/blend-in&t=1396573158369&n=3054703&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/ungoogle-yourself&t=1396525214238&n=723786> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/know-what-you-like&t=1400681582125&n=511834&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-learning-computer-programming&t=1396641199469&n=5737979> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/learn-any-language&t=1396538594221&n=1341626&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/get-a-flat-stomach-in-a-week&t=1396550334595&n=1921795> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/adjust&t=1396519909028&n=460278&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramel&t=1396517067241&n=289425> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cream-butter&t=1396547976027&n=1813764&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312254&n=4706830> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/dip&t=1396565550830&n=2720305&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/buy-a-house&t=1396521021527&n=508951> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-over&t=1396572090240&n=3013105&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-cake&t=1396514335563&n=133399> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/like-reading&t=1400604815349&n=424785&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-learning-computer-programming&t=1396641199469&n=5737977> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/like-a-book&t=1396527681773&n=842645&k=mainentity> . 

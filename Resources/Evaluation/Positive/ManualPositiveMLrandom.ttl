@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prohow: <http://vocab.inf.ed.ac.uk/prohow#> .
+@prefix madph: <http://vocab.inf.ed.ac.uk/madprohow#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-chili-vodka&t=1396517336965&n=306646> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/wash-your-hands-18/&t=1396405546831&n=2667252&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/tie-dye-a-shirt&t=1396600614507&n=4314284> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-cupcakes-8/&t=1396331569311&n=1063352&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/retrieve-a-lost-dog-from-the-pound&t=1396566229006&n=2752245> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/love-your-dogs/&t=1396441254824&n=3016241&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cope-with-difficult-homework-or-exams&t=1396536243393&n=1233914> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/study&t=1396535313618&n=1192758&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/draw-naruto-uzumaki&t=1396675947253&n=6495333> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/draw-a-body/&t=1396398165372&n=2368241&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/feel-pampered-as-a-14-16-year-old-girl&t=1396667843097&n=6319399> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/braid-hair-6/&t=1396424858892&n=2872481&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/host-a-mystery-dinner&t=1396546634542&n=1716400> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/take-a-picture-1/&t=1396441956629&n=3025199&k=mainentity> . 
+
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/choose-your-favorite-airline&t=1396578191299&n=3271600> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/travel&t=1396743612165&n=7250318&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/enjoy-summer&t=1396511806014&n=63761> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/tan-1/&t=1396598113415&n=3403570&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/buy-vanguard-mutual-funds&t=1396543540723&n=1543553> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/invest&t=1396541738483&n=1471797&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/write-a-good-online-dating-profile&t=1396628159189&n=5382867> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/brainstorm&t=1396526080647&n=761703&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/become-an-attorney-in-california&t=1396583374213&n=3391907> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/pass-a-test&t=1396712192192&n=7014286&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-chocolate-eclair-dessert&t=1396598302193&n=4219013> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/melt-chocolate/&t=1396527639930&n=3291342&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/how-to-make-a-note-to-santa-easiest-way/&t=1396323793662&n=44822> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/draw-a-face-2/&t=1396548622400&n=3322505&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-up-a-random-song&t=1396594718536&n=3944283> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/memorize&t=1396536385036&n=1240939&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-chocolate-hearts-for-valentine%27s-day&t=1396560788551&n=2457030> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/melt-chocolate/&t=1396527639930&n=3291342&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-fingerboard-company&t=1396679620798&n=6551228> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/sell&t=1396544040156&n=1563645&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/email-audio-files&t=1396653931969&n=6090184> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/create-a-username&t=1396594689293&n=3943201&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/rap-like-nicki-minaj&t=1396636344995&n=5612871> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/rap/&t=1396415903096&n=2755173&k=mainentity> . 
+
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/build-good-credit&t=1396543315338&n=1535709> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/use-a-credit-card&t=1396632798887&n=5509664&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-back-pain-by-relaxing&t=1396619544643&n=5040230> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-appointments&t=1396671566170&n=6396071&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/witness-ash-wednesday&t=1396559966669&n=2411940> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/pray&t=1396559230631&n=2376002&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/flirt-with-a-girl&t=1396692491902&n=6715266> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/show-off&t=1396687599046&n=6673541&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/fold-a-napkin-into-a-flower&t=1396554322114&n=2119024> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/fold-a-napkin-1/&t=1396423764124&n=2852129&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-decadent-crab-bisque/&t=1396333684986&n=1372072> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/chop-an-onion-2/&t=1396335155693&n=1589124&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/bake-almond-flour-brownies/&t=1396328431775&n=617237> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/preheat-an-oven&t=1396516070963&n=236894&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/be-preppy-(in-middle-school)&t=1396781515017&n=7486205> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/give-yourself-a-manicure&t=1396510633066&n=22344&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/create-an-airplane-den-in-animal-jam&t=1396648257344&n=5958454> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/decorate&t=1396515048037&n=175605&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/install-and-login-into-sendgenie&t=1396533698130&n=1125587> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/double-click&t=1396531778036&n=1035378&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/survive-your-first-day-of-6th-grade&t=1396777305007&n=7460252> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/introduce-yourself&t=1396526598944&n=791791&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/date-your-spouse&t=1396540650664&n=1428349> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/wake-up&t=1396672614673&n=6408164&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/become-a-home-theater-installer&t=1396583402134&n=3393022> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/gain-experience&t=1396583752577&n=3408081&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/relax-before-an-exciting-event&t=1396548458949&n=1834988> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/nap&t=1396552311508&n=2008032&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-scrambled-eggs-with-a-waffle-maker/&t=1396336629403&n=1808224> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/whisk-eggs&t=1396517122285&n=294125&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-a-support-group&t=1396535464483&n=1197814> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/delegate&t=1396522137689&n=571967&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/cook-44/&t=1396568610497&n=3367515> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/scoop-ice-cream&t=1396515869690&n=221493&k=mainentity> . 

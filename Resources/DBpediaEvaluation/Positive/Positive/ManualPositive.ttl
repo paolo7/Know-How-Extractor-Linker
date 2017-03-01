@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prohow: <http://vocab.inf.ed.ac.uk/prohow#> .
+@prefix madph: <http://vocab.inf.ed.ac.uk/madprohow#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-black-walnut-and-sweet-potato-pudding&t=1396595582970&n=4012865or0> rdf:type <http://dbpedia.org/resource/Glass> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-aloo-dum-(baby-potato-curry)&t=1396547919393&n=1808319> rdf:type <http://dbpedia.org/resource/Fork> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/dress-up-a-handbag-for-prom&t=1396620879151&n=5109652and3> rdf:type <http://dbpedia.org/resource/Bead> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-the-ultimate-baked-potato-in-10-minutes/&t=1396335962762&n=1710735> rdf:type <http://dbpedia.org/resource/Microwave> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-vegan-spaghetti-sauce&t=1396667096449&n=6284418and0> rdf:type <http://dbpedia.org/resource/White_onion> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-rubberband-airsoft-gun&t=1396699187095&n=6825400> rdf:type <http://dbpedia.org/resource/Duct_tape> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-fishermans-eggs/&t=1396330641323&n=919190and0> rdf:type <http://dbpedia.org/resource/Garlic> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-sugar-cookie-cinnamon-rolls/&t=1396327705055&n=514406> rdf:type <http://dbpedia.org/resource/Milk> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/remove-mold-from-drywall&t=1396626149650&n=5305528> rdf:type <http://dbpedia.org/resource/Utility_knife> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-vegan-chocolate-ice-cream&t=1396597365991&n=4164817> rdf:type <http://dbpedia.org/resource/Food_processor> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/remove-pen-marks&t=1396617642597&n=4981765> rdf:type <http://dbpedia.org/resource/Pencil> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-a-delicious-lemon-loaf/&t=1396330108294&n=853479> rdf:type <http://dbpedia.org/resource/Vanilla_extract> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-potato-salad-like-mama-used-to-make/&t=1396334812010&n=1537693> rdf:type <http://dbpedia.org/resource/Salt> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-braided-wrap-string-bracelet&t=1396510924846&n=36389> rdf:type <http://dbpedia.org/resource/Patience> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/clean-your-room-to-your-parent%27s-standards&t=1396585282656&n=3480547> rdf:type <http://dbpedia.org/resource/Paper_towel> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-your-own-tea-stained-gift-tags/&t=1396325265814&n=229070> rdf:type <http://dbpedia.org/resource/Paper_towel> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-yogurt-covered-pretzels&t=1396632310133&n=5500367> rdf:type <http://dbpedia.org/resource/Pretzel> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/cook-road-kill-chicken/&t=1396334285420&n=1461073> rdf:type <http://dbpedia.org/resource/Kosher_salt> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/cook-delicious-beef-meal-with-garlic-vegetables/&t=1396332379209&n=1179346> rdf:type <http://dbpedia.org/resource/Red_onion> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/brine-chicken/&t=1396334387384&n=1475827> rdf:type <http://dbpedia.org/resource/Garlic_powder> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/do-a-fresh-face-with-bold-lips/&t=1396326803530&n=408992> rdf:type <http://dbpedia.org/resource/Lip_balm> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/apply-easy-eye-makeup&t=1400572648272&n=291454> rdf:type <http://dbpedia.org/resource/Minute> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/bake-almond-olive-oil-cake-with-brown-butter-glaze/&t=1396329076294&n=710954or0> rdf:type <http://dbpedia.org/resource/Almond_meal> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/remove-mold-from-children%27s-bath-toys&t=1396522503873&n=589108> rdf:type <http://dbpedia.org/resource/Apple_cider_vinegar> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/fix-a-brake-fluid-leak&t=1396640049338&n=5715093> rdf:type <http://dbpedia.org/resource/Socket_wrench> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-super-light-chocolate-cupcakes/&t=1396328934250&n=690264> rdf:type <http://dbpedia.org/resource/Egg_(food)> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/control-scale-insects-on-indoor-plants&t=1396561536758&n=2495687> rdf:type <http://dbpedia.org/resource/Tweezers> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/cook-ganji-ramadan-spl/&t=1396332481663&n=1195074> rdf:type <http://dbpedia.org/resource/Lemon> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/clean-a-bowl-or-chillum&t=1396557510281&n=2287812> rdf:type <http://dbpedia.org/resource/Toothpick> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-mini-maple-pancake-muffins&t=1396544719993&n=1598143> rdf:type <http://dbpedia.org/resource/Buttermilk> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/how-to-make-spring-rolls-1/&t=1396333704760&n=1375316> rdf:type <http://dbpedia.org/resource/Sesame_oil> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-brownie-batter-pie/&t=1396327487845&n=482355> rdf:type <http://dbpedia.org/resource/Milk> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-tennis-ball-puppet&t=1396584868806&n=3461885and2> rdf:type <http://dbpedia.org/resource/Googly_eyes> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/enjoy-whale-watching-in-san-diego&t=1396700727883&n=6853999> rdf:type <http://dbpedia.org/resource/Camera> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-lamingtons&t=1396680712341&n=6568650> rdf:type <http://dbpedia.org/resource/Spatula> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/grow-cantaloupe&t=1396603293489&n=4444570> rdf:type <http://dbpedia.org/resource/Fertilizer> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/freeze-garlic&t=1396517585984&n=325691and0> rdf:type <http://dbpedia.org/resource/Cutting_board> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-russian-blinis-with-curd&t=1396544735928&n=1599615or1> rdf:type <http://dbpedia.org/resource/Almond> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-foam-flower&t=1396523326521&n=629581> rdf:type <http://dbpedia.org/resource/Pipe_cleaner> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bathe-a-horse-for-a-horse-show&t=1396568380092&n=2858361> rdf:type <http://dbpedia.org/resource/Halter> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/home-made-reeses-cups/&t=1396329422432&n=763412> rdf:type <http://dbpedia.org/resource/Butter> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/build-an-awesome-pet-rock-home&t=1396558148948&n=2319409> rdf:type <http://dbpedia.org/resource/Wallpaper> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/cook-fried-red-lentils/&t=1396333474898&n=1342278> rdf:type <http://dbpedia.org/resource/Sugar> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-a-hair-bow-9/&t=1396323501969&n=5363> rdf:type <http://dbpedia.org/resource/Scissors> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/cook-smoked-pork-caldereta/&t=1396600170101&n=3405448> rdf:type <http://dbpedia.org/resource/Butter> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/attach-a-wolo-siren-to-a-bicycle&t=1396530279064&n=963007> rdf:type <http://dbpedia.org/resource/Electrical_tape> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/draw-a-fox&t=1396554976370&n=2154261> rdf:type <http://dbpedia.org/resource/Pencil> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/remove-floor-tile&t=1396525037824&n=711513> rdf:type <http://dbpedia.org/resource/Broom> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook-collard-greens-southern-style&t=1400494751987&n=29291> rdf:type <http://dbpedia.org/resource/Crushed_red_pepper> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/act-like-shino-aburame-from-naruto&t=1396621474171&n=5139633and0> rdf:type <http://dbpedia.org/resource/Hair_gel> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/be-a-teen-spy-detective&t=1396555708360&n=2194131and0> rdf:type <http://dbpedia.org/resource/Experience> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/wash-dishes&t=1396515948961&n=227591> rdf:type <http://dbpedia.org/resource/Rubber_glove> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-nutella-cookies&t=1396663914727&n=6236136> rdf:type <http://dbpedia.org/resource/Flour> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-home-for-your-hedgehog&t=1396569021187&n=2888300> rdf:type <http://dbpedia.org/resource/Bedding> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/do-a-tissue-culture&t=1396512196387&n=75613and3> rdf:type <http://dbpedia.org/resource/Mask> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-newspaper-smoke-bomb&t=1396555359283&n=2176663> rdf:type <http://dbpedia.org/resource/Glove> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-a-burlap-ruffle-lamp-shade/&t=1396325651821&n=276988> rdf:type <http://dbpedia.org/resource/Iron> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-s%27mores-cake&t=1396595275328&n=3988000or1> rdf:type <http://dbpedia.org/resource/Margarine> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-munchkins&t=1396722591097&n=7134347> rdf:type <http://dbpedia.org/resource/Marshmallow> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-blue-balls-cocktail&t=1396602532992&n=4406362> rdf:type <http://dbpedia.org/resource/Maraschino_cherry> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-chana-aloo-masala/&t=1396336691251&n=1817632> rdf:type <http://dbpedia.org/resource/Tomato> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/write-a-realistic-fiction-book&t=1396656766313&n=6134471or0> rdf:type <http://dbpedia.org/resource/Pen> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-delicious-3-chip-bars/&t=1396328536752&n=633744> rdf:type <http://dbpedia.org/resource/Baking_powder> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-vegan-buffalo-red-beans&t=1396597362159&n=4164278and1> rdf:type <http://dbpedia.org/resource/Black_pepper> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-sweet-potato-fritters&t=1396591471086&n=3785407or1> rdf:type <http://dbpedia.org/resource/Water> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-cheesy-tomato-sardine-bites&t=1396546700916&n=1720472> rdf:type <http://dbpedia.org/resource/Parsley> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/tell-wool-yarn-from-acrylic-yarn&t=1396620152542&n=5067775> rdf:type <http://dbpedia.org/resource/Water> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/get-rid-of-a-dry-cough&t=1396668113984&n=6323553or0> rdf:type <http://dbpedia.org/resource/Pineapple> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/use-autosuggestion&t=1396538062947&n=1318164> rdf:type <http://dbpedia.org/resource/Belief> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/rob-people-in-runescape&t=1396757618964&n=7352794> rdf:type <http://dbpedia.org/resource/Internet> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-oatcakes&t=1396548011692&n=1817071or1> rdf:type <http://dbpedia.org/resource/Margarine> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/sugar-flowers&t=1400570721646&n=270541> rdf:type <http://dbpedia.org/resource/Bowls> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/rainbow-loom-triple-single-bracelet/&t=1396422656144&n=2828735> rdf:type <http://dbpedia.org/resource/Rubber_band> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-a-suitcase-chair/&t=1396324896351&n=184032> rdf:type <http://dbpedia.org/resource/Screw> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-yummy-chocolate-chip-cookies/&t=1396477397960&n=3178341> rdf:type <http://dbpedia.org/resource/Egg_(food)> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-the-best-margaritas/&t=1396330406857&n=886301> rdf:type <http://dbpedia.org/resource/Tequila> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/evolve-on-pokemon-mystery-dungeon-blue-rescue-team&t=1396592030300&n=3815392and1> rdf:type <http://dbpedia.org/resource/Scyther> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-platform&t=1396697261401&n=6792994and1> rdf:type <http://dbpedia.org/resource/Ladder> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/cook-easy-eggs-benedict/&t=1396332838735&n=1247833or0> rdf:type <http://dbpedia.org/resource/Ham> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-moan-pickled-tomatoes/&t=1396331196840&n=1007070> rdf:type <http://dbpedia.org/resource/Cumin> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-papier-m%c3%a2ch%c3%a9-mask-(for-kids)&t=1396620395085&n=5082239or1> rdf:type <http://dbpedia.org/resource/Tray> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/draw-an-anime-hamster&t=1396749807785&n=7276848and0> rdf:type <http://dbpedia.org/resource/Paper> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/refinish-wood-floors&t=1396525056815&n=712751> rdf:type <http://dbpedia.org/resource/Steel_wool> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/apply-makeup-(teens)&t=1396710049512&n=6965843> rdf:type <http://dbpedia.org/resource/Sleep> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/use-wax-on-your-hair&t=1396687962674&n=6676265> rdf:type <http://dbpedia.org/resource/Mirror> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-sweater-drying-stand&t=1396617549160&n=4976249and0> rdf:type <http://dbpedia.org/resource/Staple_gun> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-cosplay-that-won%27t-fail&t=1396632999025&n=5515480or0> rdf:type <http://dbpedia.org/resource/Wig> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-homemade-oreo-cookies&t=1396597531759&n=4179751> rdf:type <http://dbpedia.org/resource/Measuring_cup> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-enchilada-sauce&t=1400635425932&n=473368and0> rdf:type <http://dbpedia.org/resource/Cutting_board> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook-lamb-adobo&t=1396590975405&n=3747403> rdf:type <http://dbpedia.org/resource/Potato> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-a-fan-club&t=1396573346830&n=3062459or1> rdf:type <http://dbpedia.org/resource/Game> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-quick-pasta-bake/&t=1396400718018&n=2505148> rdf:type <http://dbpedia.org/resource/Pasta> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-mozzarella-sticks&t=1396595851419&n=4034648or0> rdf:type <http://dbpedia.org/resource/Tongs> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-an-italian-margarita&t=1396602729743&n=4420504and1> rdf:type <http://dbpedia.org/resource/Sour_mix> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-awareness-ribbons&t=1396537268448&n=1282949> rdf:type <http://dbpedia.org/resource/Scissors> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/know-when-car-tires-need-replacing&t=1396638913953&n=5677940> rdf:type <http://dbpedia.org/resource/Penny> . 

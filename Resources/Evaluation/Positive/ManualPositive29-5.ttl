@@ -1,0 +1,43 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prohow: <http://vocab.inf.ed.ac.uk/prohow#> .
+@prefix madph: <http://vocab.inf.ed.ac.uk/madprohow#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312254&n=4706819> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/how-to-bake/&t=1396572138617&n=3371684&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-cake&t=1396514335563&n=133397> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake&t=1396521082144&n=513025&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/get-a-flat-stomach-in-a-week&t=1396550334596&n=1921810> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/work-out&t=1396575941825&n=3175693&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704638&n=396439> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook&t=1396516043229&n=234530&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/connect-two-computers&t=1396532957951&n=1090265> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/set-up-a-computer&t=1396532130886&n=1052114&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-coughing-in-5-minutes&t=1396668056316&n=6322276> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/breathe&t=1396523302834&n=627969&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312255&n=4706841> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake&t=1396521082144&n=513025&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-cake&t=1396514335563&n=133387> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake&t=1396521082144&n=513025&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704639&n=396456> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook&t=1396516043229&n=234530&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/get-a-flat-stomach-in-a-week&t=1396550334596&n=1921809> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/do-crunches&t=1396573536783&n=3069748&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704639&n=396457> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook&t=1396516043229&n=234530&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312254&n=4706819> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-chicken&t=1396610308255&n=4706290&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-bleeding&t=1396551454933&n=1972215> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/call-911&t=1396521087698&n=513589&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-learning-computer-programming&t=1396641199469&n=5737979> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/learn-a-language&t=1396538288148&n=1328738&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-learning-computer-programming&t=1396641199469&n=5737977> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/read-a-book&t=1396522143776&n=572271&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312254&n=4706819> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-chicken&t=1396610313267&n=4707022&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-loving-someone-who-doesn%27t-love-you&t=1396773986878&n=7446716> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/step-out-of-your-comfort-zone&t=1396516325016&n=248097&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312254&n=4706819> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake&t=1396521082144&n=513025&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312255&n=4706841> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/how-to-bake/&t=1396572138617&n=3371684&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/start-learning-computer-programming&t=1396641199468&n=5737962> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/choose-a-programming-language&t=1396533994518&n=1138053&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-bleeding&t=1396551454933&n=1972216> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/relax&t=1396516336773&n=248662&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-cake&t=1396514335563&n=133397> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/how-to-bake/&t=1396572138617&n=3371684&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312254&n=4706831> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake&t=1396521082144&n=513025&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704638&n=396449> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook&t=1396516043229&n=234530&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-loving-someone&t=1396694119501&n=6732406> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/meet-people-like-you&t=1396573198513&n=3056495&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-coughing-in-5-minutes&t=1396668056316&n=6322274> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/gargle&t=1396551114263&n=1955911&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-bleeding&t=1396551454932&n=1972201> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/use-an-alum-block&t=1400519153651&n=93242&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/stop-coughing-in-5-minutes&t=1396668056316&n=6322269> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/walk&t=1400544373054&n=140833&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704639&n=396458> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/store-onions&t=1396510797894&n=30715&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-boneless-skinless-chicken&t=1396610312254&n=4706831> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/how-to-bake/&t=1396572138617&n=3371684&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-cake&t=1396514335563&n=133387> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/how-to-bake/&t=1396572138617&n=3371684&k=mainentity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-caramelized-onions&t=1396518704638&n=396440> prohow:has_step <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook&t=1396516043229&n=234530&k=mainentity> . 

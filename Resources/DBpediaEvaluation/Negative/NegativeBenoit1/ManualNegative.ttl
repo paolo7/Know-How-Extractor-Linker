@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prohow: <http://vocab.inf.ed.ac.uk/prohow#> .
+@prefix madph: <http://vocab.inf.ed.ac.uk/madprohow#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/create-a-colorful-unique-summer-look/&t=1396327218666&n=450529and0> rdf:type <http://dbpedia.org/resource/Fun> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/use-the-starbucks-card-mobile-app&t=1396622690110&n=5174450and10> rdf:type <http://dbpedia.org/resource/Storm> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-inexpensive-centrepieces/&t=1396325288759&n=231993and1> rdf:type <http://dbpedia.org/resource/Black> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/introduce-a-new-dog-to-your-house-and-other-dogs&t=1396516857093&n=274575> rdf:type <http://dbpedia.org/resource/Lead> . 

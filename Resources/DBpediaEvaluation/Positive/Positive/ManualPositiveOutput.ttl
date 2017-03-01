@@ -1,0 +1,108 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prohow: <http://vocab.inf.ed.ac.uk/prohow#> .
+@prefix madph: <http://vocab.inf.ed.ac.uk/madprohow#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-meringue-1/&t=1396328336353&n=604530&k=mainentity&t=1403689348294&n=5092&k=output> rdf:type <http://dbpedia.org/resource/Meringue> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/buy-bagpipes&t=1396528971707&n=906166&k=mainentity&t=1403689042614&n=4143&k=output> rdf:type <http://dbpedia.org/resource/Bagpipes> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-sugar-cookies&t=1396589674204&n=3688599&k=mainentity&t=1403688472842&n=2591&k=output> rdf:type <http://dbpedia.org/resource/Sugar_cookie> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/become-a-chartered-accountant&t=1396583456079&n=3395521&k=mainentity&t=1403687960078&n=700&k=output> rdf:type <http://dbpedia.org/resource/Chartered_Accountant> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/find-marginal-cost&t=1396607476044&n=4609296&k=mainentity&t=1403688227408&n=1643&k=output> rdf:type <http://dbpedia.org/resource/Marginal_cost> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-tequila-slammer&t=1400565559349&n=245414&k=mainentity&t=1403687762559&n=158&k=output> rdf:type <http://dbpedia.org/resource/Tequila_Slammer> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-paper-clay&t=1396619902591&n=5052412&k=mainentity&t=1403688011269&n=902&k=output> rdf:type <http://dbpedia.org/resource/Paper_clay> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/find-your-learning-style&t=1396511651166&n=61317&k=mainentity&t=1403688585436&n=2931&k=output> rdf:type <http://dbpedia.org/resource/Learning_styles> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-beef-stroganoff&t=1396591013093&n=3751661&k=mainentity&t=1403688063254&n=1039&k=output> rdf:type <http://dbpedia.org/resource/Beef_Stroganoff> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-yogurt-2/&t=1396333932321&n=1408989&k=mainentity&t=1403689435928&n=5463&k=output> rdf:type <http://dbpedia.org/resource/Yogurt> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/find-a-tutor&t=1396535304467&n=1192298&k=mainentity&t=1403688358366&n=2118&k=output> rdf:type <http://dbpedia.org/resource/Tutor> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/prepare-quinoa&t=1396544263342&n=1573362&k=mainentity&t=1403687856739&n=385&k=output> rdf:type <http://dbpedia.org/resource/Quinoa> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-couscous&t=1396517851908&n=346639&k=mainentity&t=1403688480425&n=2623&k=output> rdf:type <http://dbpedia.org/resource/Couscous> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-a-beehive/&t=1396331376872&n=1035181&k=mainentity&t=1403689295799&n=4879&k=output> rdf:type <http://dbpedia.org/resource/Beehive> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-patchwork&t=1396621250987&n=5130908&k=mainentity&t=1403689064151&n=4204&k=output> rdf:type <http://dbpedia.org/resource/Patchwork> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/do-a-curtain-call&t=1396528889903&n=903378&k=mainentity&t=1403689036098&n=4121&k=output> rdf:type <http://dbpedia.org/resource/Curtain_call> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/buy-a-nightgown&t=1400583683650&n=378640&k=mainentity&t=1403687774554&n=176&k=output> rdf:type <http://dbpedia.org/resource/Nightgown> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-pecan-pie&t=1396510449006&n=10370&k=mainentity&t=1403688398420&n=2295&k=output> rdf:type <http://dbpedia.org/resource/Pecan_pie> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/get-a-boarding-pass&t=1396578207866&n=3272158&k=mainentity&t=1403688987329&n=3973&k=output> rdf:type <http://dbpedia.org/resource/Boarding_pass> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-pie-chart&t=1396607307847&n=4601636&k=mainentity&t=1403687874912&n=432&k=output> rdf:type <http://dbpedia.org/resource/Pie_chart> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-cottage-cheese/&t=1396332195601&n=1152880&k=mainentity&t=1403689299543&n=4894&k=output> rdf:type <http://dbpedia.org/resource/Cottage_cheese> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/catch-a-carp&t=1396514743682&n=156429&k=mainentity&t=1403687978897&n=773&k=output> rdf:type <http://dbpedia.org/resource/Carp> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-egg-drop-soup/&t=1396331513945&n=1054876&k=mainentity&t=1403689413890&n=5360&k=output> rdf:type <http://dbpedia.org/resource/Egg_drop_soup> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/catch-a-horse&t=1396519616933&n=447222&k=mainentity&t=1403688511418&n=2708&k=output> rdf:type <http://dbpedia.org/resource/Horse> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/become-an-actor&t=1396529651751&n=934626&k=mainentity&t=1403687894718&n=491&k=output> rdf:type <http://dbpedia.org/resource/Actor> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/catch-a-gentleman&t=1396692453468&n=6713762&k=mainentity&t=1403688508086&n=2695&k=output> rdf:type <http://dbpedia.org/resource/Gentleman> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-peppermint-tea&t=1396520140008&n=470652&k=mainentity&t=1403688208541&n=1576&k=output> rdf:type <http://dbpedia.org/resource/Peppermint_tea> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/find-a-moving-company&t=1396563813241&n=2636206&k=mainentity&t=1403689211915&n=4665&k=output> rdf:type <http://dbpedia.org/resource/Moving_company> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/prepare-for-a-figure-skating-competition&t=1396574632046&n=3114321&k=mainentity&t=1403688581050&n=2919&k=output> rdf:type <http://dbpedia.org/resource/Figure_skating_competition> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-bath-bombs&t=1396577308026&n=3236290&k=mainentity&t=1403687986843&n=802&k=output> rdf:type <http://dbpedia.org/resource/Bath_bomb> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-an-independent-film&t=1396528608408&n=890313&k=mainentity&t=1403688094106&n=1146&k=output> rdf:type <http://dbpedia.org/resource/Independent_film> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-arabic-coffee&t=1396545342340&n=1632856&k=mainentity&t=1403688428532&n=2422&k=output> rdf:type <http://dbpedia.org/resource/Arabic_coffee> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/do-a-front-limber/&t=1396566713562&n=3365005&k=mainentity&t=1403689444783&n=5505&k=output> rdf:type <http://dbpedia.org/resource/Front_limber> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-pap&t=1396597429019&n=4170180&k=mainentity&t=1403688142498&n=1309&k=output> rdf:type <http://dbpedia.org/resource/Pap_(food)> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/create-a-flowchart&t=1396621680845&n=5142867&k=mainentity&t=1403687992192&n=831&k=output> rdf:type <http://dbpedia.org/resource/Flowchart> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-cookies-5/&t=1396328080638&n=567690&k=mainentity&t=1403689304480&n=4919&k=output> rdf:type <http://dbpedia.org/resource/Cookie> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-tortilla-chips&t=1396546666816&n=1718340&k=mainentity&t=1403688482810&n=2633&k=output> rdf:type <http://dbpedia.org/resource/Tortilla_chip> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/buy-a-window&t=1396562467477&n=2550156&k=mainentity&t=1403688898581&n=3749&k=output> rdf:type <http://dbpedia.org/resource/Window> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/organize-a-campfire&t=1396631145084&n=5474000&k=mainentity&t=1403688915393&n=3796&k=output> rdf:type <http://dbpedia.org/resource/Campfire> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/catch-a-foul-ball&t=1396573799859&n=3080013&k=mainentity&t=1403689081353&n=4258&k=output> rdf:type <http://dbpedia.org/resource/Foul_ball> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/grow-grass/&t=1396337639554&n=1937681&k=mainentity&t=1403689491803&n=5745&k=output> rdf:type <http://dbpedia.org/resource/Grass> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-eucalyptus-oil&t=1396548524342&n=1839130&k=mainentity&t=1403688240723&n=1695&k=output> rdf:type <http://dbpedia.org/resource/Eucalyptus_oil> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-doll&t=1396554260307&n=2115055&k=mainentity&t=1403688075262&n=1076&k=output> rdf:type <http://dbpedia.org/resource/Doll> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-pomegranate-juice&t=1396545678241&n=1654888&k=mainentity&t=1403687990940&n=823&k=output> rdf:type <http://dbpedia.org/resource/Pomegranate_juice> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-idiyappam&t=1396526979326&n=813108&k=mainentity&t=1403688366212&n=2155&k=output> rdf:type <http://dbpedia.org/resource/Idiyappam> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-moccasins&t=1396577297089&n=3235850&k=mainentity&t=1403688079100&n=1092&k=output> rdf:type <http://dbpedia.org/resource/Moccasin> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/catch-a-dog&t=1396567425315&n=2809093&k=mainentity&t=1403688628921&n=3059&k=output> rdf:type <http://dbpedia.org/resource/Dog> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-napkin-rings&t=1396546643232&n=1716832&k=mainentity&t=1403688965241&n=3915&k=output> rdf:type <http://dbpedia.org/resource/Napkin_ring> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-sock-monkey&t=1396606370554&n=4562406&k=mainentity&t=1403687845935&n=354&k=output> rdf:type <http://dbpedia.org/resource/Sock_monkey> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/create-a-cottage-garden&t=1396561924468&n=2517960&k=mainentity&t=1403688712780&n=3317&k=output> rdf:type <http://dbpedia.org/resource/Cottage_garden> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-concealer&t=1396590386909&n=3720068&k=mainentity&t=1403688200284&n=1539&k=output> rdf:type <http://dbpedia.org/resource/Concealer> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/buy-guitar-hero&t=1400613540840&n=442286&k=mainentity&t=1403687711552&n=37&k=output> rdf:type <http://dbpedia.org/resource/Guitar_Hero> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/bake-banana-bread/&t=1396337071199&n=1868594&k=mainentity&t=1403689417670&n=5382&k=output> rdf:type <http://dbpedia.org/resource/Banana_bread> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/buy-wine&t=1396545939637&n=1670572&k=mainentity&t=1403689006684&n=4035&k=output> rdf:type <http://dbpedia.org/resource/Wine> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/buy-air-compressors&t=1396579388755&n=3289276&k=mainentity&t=1403688978861&n=3948&k=output> rdf:type <http://dbpedia.org/resource/Air_compressor> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/create-a-sudoku&t=1396609144808&n=4668346&k=mainentity&t=1403688237716&n=1682&k=output> rdf:type <http://dbpedia.org/resource/Sudoku> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/become-a-cinematographer&t=1396528728377&n=895241&k=mainentity&t=1403688221488&n=1619&k=output> rdf:type <http://dbpedia.org/resource/Cinematographer> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/bake-a-chicken&t=1396610308255&n=4706290&k=mainentity&t=1403688152168&n=1352&k=output> rdf:type <http://dbpedia.org/resource/Chicken> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-frozen-yogurt&t=1396584170460&n=3426437&k=mainentity&t=1403687953734&n=675&k=output> rdf:type <http://dbpedia.org/resource/Frozen_yogurt> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-scrambled-eggs&t=1396589460465&n=3670735&k=mainentity&t=1403687843495&n=348&k=output> rdf:type <http://dbpedia.org/resource/Scrambled_eggs> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/grow-yeast&t=1396512021486&n=70065&k=mainentity&t=1403688732791&n=3376&k=output> rdf:type <http://dbpedia.org/resource/Yeast> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-sour-cream&t=1396547770742&n=1797332&k=mainentity&t=1403688171232&n=1431&k=output> rdf:type <http://dbpedia.org/resource/Sour_cream> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/find-a-notary-public&t=1396582809240&n=3365061&k=mainentity&t=1403689132700&n=4410&k=output> rdf:type <http://dbpedia.org/resource/Notary_public> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-kids-club&t=1396694591638&n=6736882&k=mainentity&t=1403688923794&n=3817&k=output> rdf:type <http://dbpedia.org/resource/Kids_club> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/cook-a-duck&t=1396591122841&n=3760254&k=mainentity&t=1403688412852&n=2354&k=output> rdf:type <http://dbpedia.org/resource/Duck> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/prepare-spinach-(indian-dry-curry)&t=1396614148371&n=4855792&k=mainentity&t=1403688553950&n=2844&k=output> rdf:type <http://dbpedia.org/resource/Spinach> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-window-screen&t=1396667980618&n=6321316&k=mainentity&t=1403687970634&n=738&k=output> rdf:type <http://dbpedia.org/resource/Window_screen> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/become-an-officiant&t=1396583728546&n=3407157&k=mainentity&t=1403688655040&n=3134&k=output> rdf:type <http://dbpedia.org/resource/Officiant> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/prepare-real-estate-contracts&t=1396662665982&n=6219095&k=mainentity&t=1403689193326&n=4605&k=output> rdf:type <http://dbpedia.org/resource/Real_estate_contract> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/get-a-vasectomy&t=1396551724920&n=1985164&k=mainentity&t=1403688292666&n=1883&k=output> rdf:type <http://dbpedia.org/resource/Vasectomy> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-an-email/&t=1396428621409&n=2923048&k=mainentity&t=1403689330288&n=5014&k=output> rdf:type <http://dbpedia.org/resource/Email> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/do-wood-carvings&t=1396558908113&n=2356558&k=mainentity&t=1403689032839&n=4109&k=output> rdf:type <http://dbpedia.org/resource/Wood_carving> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-scatter-plot&t=1396607991622&n=4630044&k=mainentity&t=1403689133480&n=4413&k=output> rdf:type <http://dbpedia.org/resource/Scatter_plot> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-coleslaw-(usda)&t=1396590932339&n=3743121&k=mainentity&t=1403689184012&n=4573&k=output> rdf:type <http://dbpedia.org/resource/Coleslaw> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/grow-agapanthus&t=1396659676649&n=6178299&k=mainentity&t=1403688374030&n=2187&k=output> rdf:type <http://dbpedia.org/resource/Agapanthus> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-bean-bag&t=1396559313189&n=2379215&k=mainentity&t=1403687869031&n=409&k=output> rdf:type <http://dbpedia.org/resource/Bean_bag> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-wig&t=1400571851575&n=282316&k=mainentity&t=1403687798847&n=238&k=output> rdf:type <http://dbpedia.org/resource/Wig> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-tostada&t=1396521197229&n=520542&k=mainentity&t=1403688694820&n=3261&k=output> rdf:type <http://dbpedia.org/resource/Tostada> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-sloppy-joes/&t=1396402738448&n=2572976&k=mainentity&t=1403689317797&n=4977&k=output> rdf:type <http://dbpedia.org/resource/Sloppy_joe> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-christmas-ornaments-1/&t=1396422230204&n=2817185&k=mainentity&t=1403689474697&n=5646&k=output> rdf:type <http://dbpedia.org/resource/Christmas_ornament> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-pepperoni-rolls/&t=1396334454085&n=1485148&k=mainentity&t=1403689471194&n=5628&k=output> rdf:type <http://dbpedia.org/resource/Pepperoni_roll> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-fried-green-tomatoes&t=1400581610563&n=344996&k=mainentity&t=1403687776515&n=180&k=output> rdf:type <http://dbpedia.org/resource/Fried_green_tomatoes> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/calculate-molar-absorptivity&t=1396607594540&n=4614440&k=mainentity&t=1403688051405&n=994&k=output> rdf:type <http://dbpedia.org/resource/Molar_absorptivity> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/find-a-snail&t=1396523819789&n=655126&k=mainentity&t=1403688199496&n=1538&k=output> rdf:type <http://dbpedia.org/resource/Snail> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-porridge&t=1396663482962&n=6229898&k=mainentity&t=1403688376173&n=2196&k=output> rdf:type <http://dbpedia.org/resource/Porridge> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/create-a-paludarium&t=1396566113538&n=2746449&k=mainentity&t=1403689011114&n=4050&k=output> rdf:type <http://dbpedia.org/resource/Paludarium> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-brigadeiro/&t=1396328314018&n=601148&k=mainentity&t=1403689308241&n=4927&k=output> rdf:type <http://dbpedia.org/resource/Brigadeiro> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-slam-book&t=1396620378639&n=5081196&k=mainentity&t=1403688166206&n=1416&k=output> rdf:type <http://dbpedia.org/resource/Slam_book> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-pandesal/&t=1396335268160&n=1605308&k=mainentity&t=1403689423567&n=5405&k=output> rdf:type <http://dbpedia.org/resource/Pandesal> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-glorified-rice&t=1400570868738&n=271448&k=mainentity&t=1403687737836&n=91&k=output> rdf:type <http://dbpedia.org/resource/Glorified_rice> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-water-garden&t=1396560837445&n=2459327&k=mainentity&t=1403688699488&n=3273&k=output> rdf:type <http://dbpedia.org/resource/Water_garden> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/calculate-contribution-margin&t=1396542122941&n=1488253&k=mainentity&t=1403688442472&n=2474&k=output> rdf:type <http://dbpedia.org/resource/Contribution_margin> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://snapguide.com/guides/make-french-toast-16/&t=1396331507980&n=1053767&k=mainentity&t=1403689336639&n=5043&k=output> rdf:type <http://dbpedia.org/resource/French_toast> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-pancakes&t=1396516033460&n=233774&k=mainentity&t=1403687843124&n=345&k=output> rdf:type <http://dbpedia.org/resource/Pancake> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-timesheet&t=1396625068151&n=5264104&k=mainentity&t=1403688739812&n=3400&k=output> rdf:type <http://dbpedia.org/resource/Timesheet> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/do-homework&t=1396519369178&n=434298&k=mainentity&t=1403687877028&n=434&k=output> rdf:type <http://dbpedia.org/resource/Homework> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-a-cutting-board&t=1396544891886&n=1609441&k=mainentity&t=1403688081409&n=1098&k=output> rdf:type <http://dbpedia.org/resource/Cutting_board> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/make-flavored-milk&t=1396522664854&n=597775&k=mainentity&t=1403688037331&n=943&k=output> rdf:type <http://dbpedia.org/resource/Flavored_milk> . 
+ <http://vocab.inf.ed.ac.uk/procont#?url=http://www.wikihow.com/catch-a-deer&t=1396569258684&n=2899989&k=mainentity&t=1403689161108&n=4499&k=output> rdf:type <http://dbpedia.org/resource/Deer> . 
