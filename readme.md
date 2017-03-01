@@ -1,3 +1,28 @@
+
+# Know-How Extractor and Linker
+
+This is the main code used for the integration experiments described in the following paper:
+
+*Paolo Pareti, Benoit Testu, Ryutaro Ichise, Ewan Klein and Adam Barker. Integrating Know-How into the Linked Data Cloud. Knowledge Engineering and Knowledge Management, volume 8876 of Lecture Notes in Computer Science (2014)*
+
+[DOI: 10.1007/978-3-319-13704-9_30](http://dx.doi.org/10.1007/978-3-319-13704-9_30)
+
+It was used to extract and process procedural information from the [wikiHow](wikihow.com) and [Snapguide](snapguide.com) websites.
+
+## Related Projects
+
+The main project homepage can be found [here](http://homepages.inf.ed.ac.uk/s1054760/prohow/index.htm).
+
+The dataset used, and the generated links can be found here:
+* https://w3id.org/knowhow/dataset
+* https://github.com/paolo7/KnowHowDataset
+
+A newer version of the Know-How extractor can be found here:
+* https://github.com/paolo7/prohow-crawler
+
+
+## Description of the functionalities:
+
 This code contains several classes to achieve a number of functionalities. These functionalities have the objective of creating links between know-how as linked data and DBpedia, and to find decomposition links within the know-how dataset.
 The application is assuming there is a SPARQL endpoint accessible supporting SPARQL 1.1 
 This endpoint can be changed in the configuration file. Some functionalities have additional requirements.
